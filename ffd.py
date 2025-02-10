@@ -9,4 +9,4 @@ def get_numbers_ticket(min: int, max: int, quantity: int):
 
 
 numbers = get_numbers_ticket(1, 99, 4) 
-print("Ваші унікальні лотерейні числа:", numbers)
+print(numbers)
